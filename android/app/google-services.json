@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667130559934",
+    "project_id": "uflaod",
+    "storage_bucket": "uflaod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667130559934:android:6511687fa9f394651b8def",
+        "android_client_info": {
+          "package_name": "Robin.Do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpVil-SN20nfLt7lp0dgt8gdFo_ATqDqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
